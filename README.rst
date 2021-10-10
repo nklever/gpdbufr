@@ -16,8 +16,8 @@ pdbufr should be installed as described in https://github.com/ecmwf/pdbufr
 
 GeoPandas should be installed as described in https://github.com/geopandas/geopandas
 
-gpdbufr could be installed as a package using folder ``gpdbufr`` and ``\_\_init\_\_.py``
-or copying functions *read_geo_bufr* and *distance* directly from file ``gpdbufr/\_\_init\_\_.py``
+gpdbufr could be installed as a package using folder ``gpdbufr`` and ``__init\__.py``
+or copying functions *read_geo_bufr* and *distance* directly from file ``gpdbufr/__init\__.py``
 
 Usage
 =====
