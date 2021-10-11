@@ -19,6 +19,15 @@ GeoPandas should be installed as described in https://github.com/geopandas/geopa
 gpdbufr could be installed as a package using folder ``gpdbufr`` and ``__init__.py``
 or copying functions *read_geo_bufr* and *distance* directly from file ``gpdbufr/__init__.py``
 
+Jupyter Notebook
+================
+
+There is an usage example included in the Jupyter Notebook **Pdbufr Usage with Geopandas.ipynb**
+You can view this Notebook using the following nbviewer link:
+
+    https://nbviewer.org/github/nklever/gpdbufr/blob/master/Pdbufr%20Usage%20with%20Geopandas.ipynb
+
+
 Usage
 =====
 
